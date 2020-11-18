@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://tenor.com/view/flint-lockwood-typing-gif-9518347)
+![](https://github.com/SantitoGit/SantitoGit/blob/main/FlintLockWood.gif)
 <!--
 **SantitoGit/SantitoGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
