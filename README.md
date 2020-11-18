@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santi guzmán" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santi guzmán" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/santi-guzm%C3%A1n-ab829819b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santi guzmán" height="30" width="40" /></a>
 <a href="https://instagram.com/santito_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santito_" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@santiago_guzman2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@santiago_guzman2" height="30" width="40" /></a>
 </p>
